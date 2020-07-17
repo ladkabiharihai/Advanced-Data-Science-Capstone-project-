@@ -16,11 +16,11 @@ Below the organization of the files are explained
 
 
 # Files
-- **Customer_intention_prediction.data_exp.ipynb** - Contains the documentation of the exploratory Data analysis.
+- **data.ipynb** - Contains the documentation of the exploratory Data analysis.
 
-- **Customer_intention_prediction.ETL.ipynb** - Contains the code to apply necessary transformations to the original Dataset.
+- **ETL.ipynb** - Contains the code to apply necessary transformations to the original Dataset.
 
-- **Customer_intention_prediction.models.ipynb** - Contains the code for  training, tuning and saving the models.
+- **prediction.ipynb** - Contains the code for  training, tuning and saving the models.
 
 - **Architectiral Decision Document.pdf** - Contains the documentation of the technology used for various parts of the project  and the reason for using this technology.
 
